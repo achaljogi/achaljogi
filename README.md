@@ -38,7 +38,7 @@ const achalJogi = {
 
 ### 🧬 geneforge
 
-Bioinformatics web platform for gene expression analysis, visualization, and biological insight discovery.
+ Web platform for gene expression analysis, visualization, and biological insight discovery.
 
 <a href="https://github.com/achaljogi/geneforge">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=achaljogi&repo=geneforge&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" />
