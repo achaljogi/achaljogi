@@ -28,7 +28,7 @@ const achalJogi = {
   launchedProjects: ["geneforge", "blog-api-authentication"],
   certifications: [],
   status: "Building backend systems & APIs",
-  openTo: "New job opportunities",
+  openTo: "Actively seeking opportunities",
 };
 ```
 
